@@ -11,7 +11,7 @@
   <packaging>ear</packaging>
   <version>1.0</version>
   <name>MavenEnterpriseApp-ear JavaEE6 Assembly</name>
- <url>http://ec2-13-126-31-246.ap-south-1.compute.amazonaws.com:9000/</url>
+ <url>http://maven.apache.org</url>
 
   <build>
     <finalName>MavenEnterpriseApp-ear</finalName>
