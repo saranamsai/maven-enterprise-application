@@ -21,6 +21,29 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
+	<distributionManagement>
+	    <repository>
+	      <id>nexus</id>
+	      <name>Releases jfrog Repository</name>
+	      <url><distributionManagement>
+	    <repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-releases/</url>
+	    </repository>
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://ec2-13-127-212-34.ap-south-1.compute.amazonaws.com:8081/artifactory/mvn-snapshot/</url>
+	    </snapshotRepository>
+	</distributionManagement></url>
+	    </repository>
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name> Snapshot jfrogRepository </name>
+	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-snapshot/</url>
+	    </snapshotRepository>
+	</distributionManagement>
 </project>
 
 		
