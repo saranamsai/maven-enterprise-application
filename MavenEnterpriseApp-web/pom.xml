@@ -6,7 +6,7 @@
 	<parent>
 		<artifactId>maven-enterprise-application</artifactId>
 		<groupId>com.mt</groupId>
-		<version>1.0</version>
+		<version>1.0-snapshot</version>
 	</parent>
 
 	<groupId>com.mt</groupId>
