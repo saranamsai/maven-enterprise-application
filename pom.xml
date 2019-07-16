@@ -11,6 +11,7 @@
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
   </modules>
+  
 	<properties>
 		<!-- versions -->
 		<spring.version>5.0.2.RELEASE</spring.version>
